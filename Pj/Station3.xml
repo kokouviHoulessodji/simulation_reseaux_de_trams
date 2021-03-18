@@ -1,0 +1,44 @@
+<Stations>
+	<NombreLigne>1</NombreLigne>
+	<NombreStation>3</NombreStation>
+	<Ligne ID="0" color="2">
+		<ID>0</ID>
+		<ID>1</ID>
+		<ID>2</ID>
+	</Ligne>
+	<Station>
+		<ID>0</ID>
+		<POSX>100</POSX>
+		<POSY>100</POSY>
+	</Station>
+	<Station>
+		<ID>1</ID>
+		<POSX>200</POSX>
+		<POSY>125</POSY>
+	</Station>
+	<Station>
+		<ID>2</ID>
+		<POSX>300</POSX>
+		<POSY>200</POSY>
+	</Station>
+	<Tram>
+		<Depart>0</Depart>
+		<Ligne>0</Ligne>
+		<Vitesse>1.5</Vitesse>
+	</Tram>
+	<Tram>
+		<Depart>2</Depart>
+		<Ligne>0</Ligne>
+		<Vitesse>1.5</Vitesse>
+	</Tram>
+	<Tram>
+		<Depart>0</Depart>
+		<Ligne>0</Ligne>
+		<Vitesse>1.6</Vitesse>
+	</Tram>
+	<Tram>
+		<Depart>2</Depart>
+		<Ligne>0</Ligne>
+		<Vitesse>1.6</Vitesse>
+	</Tram>
+</Stations>
